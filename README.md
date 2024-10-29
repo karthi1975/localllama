@@ -20,3 +20,6 @@ If you already have the repository partially cloned and just want to pull any mi
 
 >cd Llama-3.2-3B
 >git lfs pull
+
+
+This uses FAISS Vector DB store
