@@ -1,0 +1,13 @@
+streamlit==1.x.x
+pdfplumber==0.5.x
+numpy==1.x.x
+faiss-cpu==1.x.x
+torch==2.x.x
+transformers==4.x.x
+sentence-transformers==2.x.x
+langchain==0.x.x
+langchain-huggingface==0.x.x
+langchain-community==0.x.x
+better_profanity
+fitz
+frontend
